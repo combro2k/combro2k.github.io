@@ -7,6 +7,6 @@
     <outline type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/" title="Slashdot"/>
     <outline type="rss" xmlUrl="https://portal.patchman.co/detections/rss/malware/" htmlUrl="https://portal.patchman.co/detections/rss/malware/" title="Patchman Malware"/>
     <outline type="rss" xmlUrl="https://portal.patchman.co/detections/rss/vulnerabilities/" htmlUrl="https://portal.patchman.co/detections/rss/vulnerabilities/" title="Patchman Vulnerabilities"/>
-    <outline type="rss" xmlUrl="https://www.reddit.com/r/ReverseEngineering%2Bengineering%2Bsysadmin%2Blinux.rss" htmlUrl="https://www.reddit.com/r/ReverseEngineering+engineering+sysadmin+linux+PFSENSE" title="Reddit RSS"/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/ReverseEngineering%2Bengineering%2Bsysadmin%2Blinux+PFSENSE.rss" htmlUrl="https://www.reddit.com/r/ReverseEngineering+engineering+sysadmin+linux+PFSENSE" title="Reddit RSS"/>
   </body>
 </opml>
