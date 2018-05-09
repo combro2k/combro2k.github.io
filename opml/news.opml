@@ -7,7 +7,7 @@
   <body>
     <outline text="SysAdmin" title="SysAdmin">
       <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
-      <outline type="rss" text="Slashdot" title="Tweakers" xmlUrl="http://feeds.feedburner.com/tweakers/mixed" htmlUrl="http://feeds.feedburner.com/tweakers/mixed"/>
+      <outline type="rss" text="Tweakers.net" title="Tweakers.net" xmlUrl="http://feeds.feedburner.com/tweakers/mixed" htmlUrl="http://feeds.feedburner.com/tweakers/mixed"/>
     </outline>
     <outline text="Community" title="Community">
       <outline type="rss" text="Reddit RSS" title="Reddit RSS" xmlUrl="https://www.reddit.com/r/ReverseEngineering%2Bengineering%2Bsysadmin%2Blinux+PFSENSE.rss" htmlUrl="https://www.reddit.com/r/ReverseEngineering+engineering+sysadmin+linux+PFSENSE"/>
